@@ -1,6 +1,6 @@
 
 
-#FinShare — Group Expense & Micro-Credit Management System
+**FinShare** — Group Expense & Micro-Credit Management System
 
 A DBMS project (UCS310) modeling group expense splitting and peer-to-peer micro-loans — like Splitwise, with added lending and penalty tracking. Built on Oracle (PL/SQL) with a Streamlit dashboard frontend.
 
